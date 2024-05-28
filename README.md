@@ -12,7 +12,7 @@ This project demonstrates a simple ASP.NET Core application with custom routing 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/routing-section-assignment.git
+   git clone https://github.com/MahmoodElbadri/RoutingSectionAssignment.git
    ```
 2. Navigate to the project directory:
    ```bash
