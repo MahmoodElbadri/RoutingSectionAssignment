@@ -1,18 +1,16 @@
-
-
 # RoutingSectionAssignment
 
 This project demonstrates a simple ASP.NET Core application with custom routing constraints. It serves endpoints to retrieve information about countries based on country IDs.
 
 ## Prerequisites
 
-- [.NET 8.0 SDK][https://dotnet.microsoft.com/en-us/download/dotnet/8.0]
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MahmoodElbadri/RoutingSectionAssignment.git
+   git clone https://github.com/yourusername/routing-section-assignment.git
    ```
 2. Navigate to the project directory:
    ```bash
